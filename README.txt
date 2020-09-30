@@ -1,6 +1,7 @@
 Build and test:
     This project uses maven for dependencies, build, and testing. Mvn install
-    at the root module should compile all modules and execute all tests.
+    at the root module should compile all modules and execute all tests.use it as a good way
+    thanks
 
 Run instructions:
     This project depends on a RabbitMQ host that is configured to support delayed
